@@ -2,5 +2,6 @@
 
 def say_hello():
     print("Hello, World!")
+    print('test')
 
 say_hello()
